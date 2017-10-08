@@ -3,9 +3,7 @@ In this project I will build a Neural Network from scratch and train it to predi
 'The following packages are required: 
 
 appdirs==1.4.3
-
 appnope==0.1.0
-
 bleach==2.0.0
 
 cycler==0.10.0
