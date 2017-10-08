@@ -2,9 +2,9 @@
 In this project I will build a Neural Network from scratch and train it to predict the buke ridership at different times of the year and week. 
 'The following packages are required: 
 
-appdirs==1.4.3\n
-appnope==0.1.0
-bleach==2.0.0
+appdirs==1.4.3  
+appnope==0.1.0  
+bleach==2.0.0  
 
 cycler==0.10.0
 
